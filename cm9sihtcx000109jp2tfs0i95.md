@@ -94,6 +94,6 @@ Sometimes, you do need `<div>` or `<span>`, especially when you’re styling sma
 
 ---
 
-## So glad you made it here! 🙌
+## **So glad you made it here! 🙌**
 
-Thanks for stopping by—it’s always great to connect with curious minds. If you’d like to know more about me, here’s where to go: 👉 [\[View my profile\]](https://www.myvcodes.com)
+Thanks for checking this out. If you’d like to know more about me, here’s where to go: 👉 [**\[View**](https://www.myvcodes.com/)
