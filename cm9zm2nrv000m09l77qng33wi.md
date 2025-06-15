@@ -312,18 +312,25 @@ Always load critical styles **before** non-critical styles to avoid FOUC (Flash 
 
 ---
 
-## Final Checklist
+## Quick Recap
 
-✅ Inline only above-the-fold CSS.  
-✅ Defer all non-critical JS.  
-✅ Load non-essential CSS asynchronously.  
-✅ Minimize CSS and JS file sizes.  
-✅ Preload fonts, images, and key resources.  
-✅ Use lazy loading for images/videos.  
-✅ Audit with DevTools and Lighthouse regularly.
+* Inline only above-the-fold CSS.
+    
+* Defer all non-critical JS.
+    
+* Load non-essential CSS asynchronously.
+    
+* Minimize CSS and JS file sizes.
+    
+* Preload fonts, images, and key resources.
+    
+* Use lazy loading for images/videos.
+    
+* Audit with DevTools and Lighthouse regularly.
+    
 
 ---
 
 ## **So glad you made it here! 🙌**
 
-Thanks for checking this out. If you’d like to know more about me, here’s where to go: 👉 [**\[View**](https://www.myvcodes.com/)
+Thanks for checking this out. If you’d like to know more about me, here’s where to go: 👉 [\[View Profile\]](https://www.myvcodes.com)
