@@ -83,7 +83,7 @@ You should use semantic HTML whenever possible. It improves code readability, ac
 
 Sometimes, you do need `<div>` or `<span>`, especially when you’re styling small sections or wrapping things. They’re useful — just don’t overuse them. Try to go semantic wherever possible.
 
-### In short: Key Differences
+### Quick Recap
 
 | **Feature** | **Semantic HTML** | **Non-Semantic HTML** |
 | --- | --- | --- |
@@ -96,4 +96,4 @@ Sometimes, you do need `<div>` or `<span>`, especially when you’re styling sma
 
 ## **So glad you made it here! 🙌**
 
-Thanks for checking this out. If you’d like to know more about me, here’s where to go: 👉 [**\[View**](https://www.myvcodes.com/)
+Thanks for checking this out. If you’d like to know more about me, here’s where to go: 👉 [\[View Profile\]](https://www.myvcodes.com)
