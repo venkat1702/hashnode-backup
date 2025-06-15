@@ -308,6 +308,12 @@ async function decryptData(key, ivArray, cipherArray) {
 
 > **Based on the example above, think about how encryption can help in your own use case, and explore end-to-end encryption further to build on the idea.**
 
+## Security Isn’t Set-and-Forget
+
+Security is always evolving—and so are the attacks. Make it a habit to check the [OWASP Top 10 every year.](https://owasp.org/www-project-top-ten/) It’s a solid way to stay informed, keep your code safe, and avoid nasty surprises. Your future self (and your users) will thank you.
+
+---
+
 ## Quick Recap
 
 * Sanitize all user input.
@@ -324,10 +330,6 @@ async function decryptData(key, ivArray, cipherArray) {
     
 * Leverage encryption as the final layer of defense and implement end-to-end (E2E) encryption where required.
     
-
-## Security Isn’t Set-and-Forget
-
-Security is always evolving—and so are the attacks. Make it a habit to check the [OWASP Top 10 every year.](https://owasp.org/www-project-top-ten/) It’s a solid way to stay informed, keep your code safe, and avoid nasty surprises. Your future self (and your users) will thank you.
 
 ---
 
